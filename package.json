@@ -1,0 +1,26 @@
+{
+  "name": "viewport-calculator",
+  "version": "1.0.6",
+  "description": "The javascript plugin that count viewport width by viewport size and element size. 🔌",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rackowsky/viewport-calculator.git"
+  },
+  "keywords": [
+    "viewport",
+    "calculator",
+    "javascript",
+    "responsivness",
+    "frontend"
+  ],
+  "author": "rackowsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rackowsky/viewport-calculator/issues"
+  },
+  "homepage": "https://github.com/rackowsky/viewport-calculator#readme"
+}
