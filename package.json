@@ -1,10 +1,12 @@
 {
   "name": "viewport-calculator",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The javascript plugin that count viewport width by viewport size and element size. 🔌",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "release": "standard-version",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,7 @@
   },
   "homepage": "https://github.com/rackowsky/viewport-calculator#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "standard-version": "^9.5.0"
   }
 }
