@@ -1,6 +1,6 @@
 {
   "name": "viewport-calculator",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The javascript plugin that count viewport width by viewport size and element size. 🔌",
   "main": "index.js",
   "scripts": {
