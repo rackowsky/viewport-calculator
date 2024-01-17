@@ -1,6 +1,6 @@
 # Viewport Calculator Plugin
 <!-- logo -->
-[![npm Version](https://img.shields.io/badge/npm-v0.0.5-black?style=flat&logo=npm)](https://www.npmjs.com/package/viewport-calculator)
+[![npm Version](https://img.shields.io/badge/npm-v1.0.8-black?style=flat&logo=npm)](https://www.npmjs.com/package/viewport-calculator)
 
 The JavaScript plugin efficiently calculates the viewport width, considering both the viewport size and the size of individual elements. This functionality provides a comprehensive solution for accurately determining and managing the dimensions within the viewport for enhanced web development and responsive design.
 
