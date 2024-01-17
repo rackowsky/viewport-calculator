@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="250" src="https://i.imgur.com/jEAcdaJ.png">
+</p>
+
 # Viewport Calculator Plugin
 <!-- logo -->
 [![npm Version](https://img.shields.io/badge/npm-v1.0.10-black?style=flat&logo=npm)](https://www.npmjs.com/package/viewport-calculator)
