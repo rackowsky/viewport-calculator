@@ -15,7 +15,7 @@ The JavaScript plugin efficiently calculates the viewport width, considering bot
 ```javascript
 import styled from "styled-components"
 import { theme } from "../../theme"
-import ViewportCalculator from "../../viewportCalculator"
+import ViewportCalculator from "viewport-calculator"
 
 export const HeaderElement = styled.div`
     margin: 20px;
